@@ -9,7 +9,7 @@ I hold a degree in  <code>Political Science</code> from National University of L
 
 I’m also a university <code>lecturer</code> in Social Demography 
 
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">&nbsp;***Projects I Collaborate On*** 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px">&nbsp;***Projects I Collaborate On*** 
 
 
 <code>[Dicen los medios](https://www.dicenlosmedios.com.ar)</code> 📰 
@@ -17,7 +17,7 @@ I’m also a university <code>lecturer</code> in Social Demography
 <code>[Núcleo de Innovación Social (NIS)](https://www.nucleodeinnovacion.com/)</code><img height="27" src="https://github.com/user-attachments/assets/adbae2ee-fe8c-41ea-806d-72f8ec26bb61" alt="NIS logo">
 
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px">&nbsp;***Community Involvement*** 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px">&nbsp;***Community Involvement*** 
 
 <code>[R en Buenos Aires](https://renbaires.github.io/)</code><img height="27" src="https://avatars.githubusercontent.com/u/43609757" alt="R en Bs As logo">
 
