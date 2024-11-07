@@ -7,6 +7,8 @@
 
 I hold a degree in  <code>Political Science</code> from National University of La Matanza (UNLaM) and am currently pursuing a <code>Master’s in Statistical Generation and Analysis</code> at National University of Tres de Febrero (UNTREF)
 
+I work as a <code>Data Scientist</code> at the Ministry of Health for the Government of Buenos Aires, where I focus on health data analytics.
+
 I’m also a university <code>lecturer</code> in Social Demography 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px">&nbsp;***Projects I Collaborate On*** 
@@ -22,7 +24,7 @@ I’m also a university <code>lecturer</code> in Social Demography
 <code>[R en Buenos Aires](https://renbaires.github.io/)</code><img height="27" src="https://avatars.githubusercontent.com/u/43609757" alt="R en Bs As logo">
 
 
-📫 Reach out to me at: <a href="arianabardauil@gmail.com">arianabardauil@gmail.com</a>
+📫 Reach out to me at: <a href="arianabardauil@gmail.com"><code>arianabardauil@gmail.com</code></a>
 
 
 ## My Skills Include
