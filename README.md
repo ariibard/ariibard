@@ -9,7 +9,7 @@ I hold a degree in  <code>Political Science</code> from National University of L
 
 I work as a <code>Data Scientist</code> at the Ministry of Health for the Government of Buenos Aires, where I focus on health data analytics.
 
-I’m also a university <code>lecturer</code> in Social Demography 
+I’m also a university <code>lecturer</code> in Social Demography & text mining
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px">&nbsp;***Projects I Collaborate On*** 
 
