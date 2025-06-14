@@ -26,6 +26,28 @@ I’m also a university <code>lecturer</code> in Social Demography & text mining
 
 📫 Reach out to me at: <a href="arianabardauil@gmail.com"><code>arianabardauil@gmail.com</code></a>
 
+## 📚 My Repositorys & Learning Materials
+
+<pre>
+├─📚 <b>Courses & Education Material</b>  
+│ ├─ <a href="https://github.com/ariibard/uflo-text-mining">Text Mining for Social Research</a> — Introductory course on text processing with R, aimed at the social sciences.
+│ └─ <a href="https://github.com/ariibard/renbuenosaires_shiny_book_club_5">Shiny: User Feedback</a> — Talk presented at the Mastering Shiny Book Club.
+├─🎙️ <b>Talks & Workshops</b>  
+│ ├─ <a href="https://github.com/ariibard/mastering-shiny-welcome">Mastering Shiny Book Club welcome</a> — Slides for Mastering Shiny Book Club.
+│ ├─ <a href="https://github.com/ariibard/2024-12-02-welcome">Talk dicen los medios</a> — Materials for the talk 'How to work with millions of news'.
+│ └─ <a href="https://github.com/ariibard/2024-12-20-welcome">R en Red</a> — Materials for the meetup R en Red: ARcenso, Oportunidades y Comunidad.
+├─🏛️ <b>Conferences</b>  
+│ ├─ <a href="https://github.com/ariibard/r_medicine_sumar_2025">R Medicine 2025</a> — Optimizing Public Healthcare Cost Recovery with R: A Use Case from Argentina.
+│ └─ <a href="https://github.com/ariibard/presentacion_latinr_recupero_de_gastos">LatinR 2024</a> — Presentation for our work on automating documentation for cost recovery.
+├─🎨 <b>Templates</b>  
+│ └─ <a href="https://github.com/ariibard/quarto-revealjs-wildflowers">quarto-revealjs-wildflowers</a> — RevealJS template with floral style.
+├─🌐 <b>Website</b>  
+│ └─ <a href="https://github.com/ariibard/web_nis">Núcleo de Innovación Social</a> — Website of Núcleo de Innovación Social.
+├─📂 <b>Datasets</b>  
+│ └─ <a href="https://github.com/ariibard/debates-argentina-2023">Argentinian Presidential Debates 2023</a> — Corpus and metadata from the 2023 presidential debates, open for text analysis.
+</pre>
+
+
 
 ## My Skills Include
 
