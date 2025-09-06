@@ -35,12 +35,16 @@ I’m also a university <code>lecturer</code> in Social Demography & text mining
 ├─🎙️ <b>Talks & Workshops</b>  
 │ ├─ <a href="https://github.com/ariibard/mastering-shiny-welcome">Mastering Shiny Book Club welcome</a> — Slides for Mastering Shiny Book Club.
 │ ├─ <a href="https://github.com/ariibard/2024-12-02-welcome">Talk dicen los medios</a> — Materials for the talk 'How to work with millions of news'.
-│ └─ <a href="https://github.com/ariibard/2024-12-20-welcome">R en Red</a> — Materials for the meetup R en Red: ARcenso, Oportunidades y Comunidad.
+│ ├─ <a href="https://github.com/ariibard/2024-12-20-welcome">R en Red</a> — Materials for the meetup R en Red: ARcenso, Oportunidades y Comunidad. 
+| └─ <a href="https://welcome20250821.netlify.app/#/title-slide">Meetup 'functions in R'</a> — Slides from the R en Buenos Aires meetup on Functions in R
+| └─ <a href="https://ariibard.github.io/2025-06-24-welcome/#/mi3rd4-git">Meetup 'Git'</a> — Slides from the R en Buenos Aires meetup on Git
 ├─🏛️ <b>Conferences</b>  
 │ ├─ <a href="https://github.com/ariibard/r_medicine_sumar_2025">R Medicine 2025</a> — Optimizing Public Healthcare Cost Recovery with R: A Use Case from Argentina.
 │ └─ <a href="https://github.com/ariibard/presentacion_latinr_recupero_de_gastos">LatinR 2024</a> — Presentation for our work on automating documentation for cost recovery.
 ├─🎨 <b>Templates</b>  
 │ └─ <a href="https://github.com/ariibard/quarto-revealjs-wildflowers">quarto-revealjs-wildflowers</a> — RevealJS template with floral style.
+| └─ <a href="https://github.com/ariibard/arcenso-useR2025">Theme of {arcenso} slides</a> — RevealJS template with argentinian style. 
+| └─ <a href="https://github.com/ariibard/quarto-typst-certificate-mastering-shiny-bookclub">Certificate theme in Typst and Quarto for the Shiny Book Club</a> (R en Buenos Aires & R-Ladies)
 ├─🌐 <b>Website</b>  
 │ └─ <a href="https://github.com/ariibard/web_nis">Núcleo de Innovación Social</a> — Website of Núcleo de Innovación Social.
 ├─📂 <b>Datasets</b>  
